@@ -10,6 +10,8 @@
 
 ---
 
+![Star History Chart](https://api.star-history.com/svg?repos=FuTseYi/YOLO_DeepSeek_Powered_CropDisease_Detection&type=Date)
+
 ### 1. Project Overview
 
 This project is an intelligent crop disease detection system that leverages the powerful **YOLO (You Only Look Once)** algorithm for real-time object detection. It is built with a modern, decoupled, full-stack architecture, assisted by the **DeepSeek** AI model for code generation and project insights. The system provides an end-to-end solution for identifying crop diseases from images, videos, and live camera feeds, aiming to offer an efficient and accurate tool for agricultural producers and researchers.
